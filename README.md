@@ -1,5 +1,5 @@
 # pythonAssignment
-Question1 : Check_Password_Strength
+. Question1 : Check_Password_Strength
 Explaining each code of line:
 _import re : "re module", which stands for regular expressions, Regex are used for pattern matching in strings.
 I have used it to check whether the password contains specific character types (uppercase, lowercase, digits, special characters).
